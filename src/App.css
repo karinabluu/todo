@@ -1,0 +1,9 @@
+.title {
+  background-color: #eeeeee;
+  padding: 20px;
+}
+
+.todoContainer {
+  border: 1px solid black;
+  width: 400px;
+}
